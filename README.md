@@ -8,4 +8,4 @@ I have Created a clone of Spotify Desktop/Web UI using Flutter
 "# Spotify-Clone" 
 
 The Final Build
-[alt text](Spotify.jpg)
+![App Screenshot](https://raw.githubusercontent.com/RohanGudla/Spotify-Clone/main/Spotify.jpg)

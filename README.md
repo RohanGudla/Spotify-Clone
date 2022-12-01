@@ -7,4 +7,5 @@ I have Created a clone of Spotify Desktop/Web UI using Flutter
 "# Spotify-Clone" 
 "# Spotify-Clone" 
 
-[]
+The Final Build
+[alt text](https://github.com/RohanGudla/Spotify/blob/main/spotify.jpg?raw=true)

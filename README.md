@@ -1,6 +1,7 @@
-# Flutter Desktop/Web Spotify UI Tutorial
+# Flutter Desktop/Web Spotify UI
 
-[YouTube Tutorial](https://youtu.be/HJ1AlSrgZVQ)
+[Linkedin](https://www.linkedin.com/in/rohangudla/)
 
-[Flutter Courses](https://launchclub.io)
+I have Created a clone of Spotify Desktop/Web UI using Flutter
+"# Spotify-Clone" 
 "# Spotify-Clone" 
